@@ -2,3 +2,11 @@
 Nishikant/package-lock.json
 Nishikant/node_modules/
 Nishikant/.next/
+
+.env
+*.env
+!.env.example
+node_modules/
+.next/
+*.log
+.codex-run-logs/
